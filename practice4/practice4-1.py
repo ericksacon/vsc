@@ -4,7 +4,7 @@ def evaluar_numero(numero):
     else:
         print("Es impar")
 
-evaluar_numero(67)
-evaluar_numero(222)
 evaluar_numero(7)
-evaluar_numero(6)
+evaluar_numero(222)
+evaluar_numero(98)
+evaluar_numero(3456)
